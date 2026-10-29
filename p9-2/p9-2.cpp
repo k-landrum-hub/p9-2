@@ -5,6 +5,7 @@
 * counts the amount of words in a sentance
 */
 
+
 #include<iostream>
 #include<string>
 using namespace std;
